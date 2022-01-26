@@ -1,0 +1,120 @@
+*{
+    margin: o;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(168, 165, 165);
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+   flex-wrap: wrap;
+}
+.div1{
+    width: 300px;
+    height: 390px;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+    
+}
+.div2{
+    width: 300px;
+    height: 390px;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+ 
+}
+.div3{
+    width: 300px;
+    height: 390px;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;  
+   
+}
+.div4{
+    width: 300px;
+    height: 390px;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+    
+}
+.rasm{
+    width: 250px;
+    height: 180px;
+    border-radius: 5px;
+  
+}
+.title{
+    font-family: sans-serif;
+    margin-left: 23px;
+}
+.tugmacha{
+    width: 100px;
+    height: 25px;
+    border-radius: 20px;
+    background-color: dodgerblue;
+    border: none;
+}
+.Tanash{
+    color: pink;
+    font-family: sans-serif;
+    margin-right: 137px;
+}
+.icon{
+    display: flex;
+    margin-right: 127px;
+   
+}
+.icon > i{
+    color: yellow;
+}
+.item{
+    display: flex;
+    list-style-type: none;
+}
+.kaka{
+    width: 250px;
+    height: 180px;
+    border-radius: 5px;
+    background-color: grey;
+}
+.tugmacha-2{
+    width: 120px;
+    height: 27px;
+    border-radius: 20px;
+    background-color: dodgerblue;
+    border: none;
+}
+.title-1{
+    font-family: sans-serif;
+    margin-left: 23px;
+    font-size: 20px;   
+}
+.kamronbek{
+    color: rgb(216, 215, 215);
+
+}
+.kamron{
+    font-size: 17px;
+    color: rgb(4, 13, 63);
+    margin-right: 123px;
+}
